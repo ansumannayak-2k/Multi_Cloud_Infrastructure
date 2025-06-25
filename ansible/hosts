@@ -1,0 +1,6 @@
+[aws]
+15.206.179.255 ansible_user=ubuntu ansible_ssh_private_key_file=/Users/ansumannayak/Multi_Cloud_Infra/terraform/aws/my-aws-key
+
+[azure]
+104.211.37.221 ansible_user=azureuser ansible_ssh_private_key_file=/Users/ansumannayak/Multi_Cloud_Infra/terraform/azure/azure_vm_key
+
